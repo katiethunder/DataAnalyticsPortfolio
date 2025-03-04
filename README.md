@@ -35,49 +35,49 @@ This portfolio is a collection of projects that I have completed as part of my H
 - Documented findings in an RMarkdown report for clear communication.
 - [View Project →](https://htmlpreview.github.io/?https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/Report.html)
 #### European Social Survey Informal Care Analysis 
-[![Project Badge](https://img.shields.io/badge/R-ESIS_Informal_Care_Analysis-blue)](link-to-repo)
+[![Project Badge](https://img.shields.io/badge/R-ESIS_Informal_Care_Analysis-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/ess_informal_care_analysis.ipynb)
 - Analyzed informal care data from the European Social Survey (ESS) using R.
 - Cleaned and processed survey data, performing statistical analysis to identify trends.
 - Created visualizations with ggplot2 to present caregiving patterns effectively.
-- [View Project →](link-to-repo)
+- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/ess_informal_care_analysis.ipynb)
 
 ### SQL
 #### Employee Database Analysis
-[![Project Badge](https://img.shields.io/badge/SQL-Employee_Database_Analysis-blue)](link-to-repo)
+[![Project Badge](https://img.shields.io/badge/SQL-Employee_Database_Analysis-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/employee_db_analysis.sql)
 - Used SQL to analyze employee demographics, looking at age, gender, and department distributions.
 - Queried and combined data with joins and subqueries to generate reports.
 - Calculated employee tenure and identified upcoming retirements using date functions.
-- [View Project →](link-to-repo)
+- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/employee_db_analysis.sql)
 #### Property Sales Analysis
-[![Project Badge](https://img.shields.io/badge/SQL-Property_Sales_Analysis-blue)](link-to-repo)
+[![Project Badge](https://img.shields.io/badge/SQL-Property_Sales_Analysis-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/property_sales_analysis.sql)
 - Used SQL to analyze property sales, focusing on price trends and sales volume.
 - Queried and filtered data to explore patterns by location and property type.
 - Performed calculations to compare sales over time.
-- [View Project →](link-to-repo)
+- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/property_sales_analysis.sql)
 
 ### PLSQL
 #### Business Rules
-[![Project Badge](https://img.shields.io/badge/PLSQL-Business_Rules-blue)](link-to-repo)
+[![Project Badge](https://img.shields.io/badge/PLSQL-Business_Rules-blue)](https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/business_rules)
 - Wrote a PL/SQL package to validate and manage data in the BOL schema.
 - Created procedures to check data quality and enforce business rules.
 - Used PL/SQL functions and error handling to automate validation.
 - Completed as part of a timed SQL/PLSQL exam.
-- [View Project →](link-to-repo)
+- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/business_rules)
 #### System Procedures
-[![Project Badge](https://img.shields.io/badge/PLSQL-System_Procedures-blue)](link-to-repo)
+[![Project Badge](https://img.shields.io/badge/PLSQL-System_Procedures-blue)](https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/system_procedures)
 - Wrote PL/SQL procedures to handle system tasks and database operations.
 - Added error handling and logging to track issues.
 - Used PL/SQL for scheduling, updates, and maintenance.
 - Completed as part of a timed SQL/PLSQL exam.
-- [View Project →](link-to-repo)
+- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/system_procedures)
 
 ### MongoDB
 #### Book Store Database
-[![Project Badge](https://img.shields.io/badge/MongoDB-Book_Store_Database-blue)](link-to-repo)
+[![Project Badge](https://img.shields.io/badge/MongoDB-Book_Store_Database-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/MONGODB/mongodb_queries.js)
 - Analyzed publishing data using MongoDB queries
 - Developed NoSQL operations to extract insights from document data
 - Created filtering methods to answer specific questions about book trends
-- [View Project →](link-to-repo)
+- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/MONGODB/mongodb_queries.js)
 
 ## Technical Skills
 
