@@ -3,7 +3,7 @@
 
 Hi! I'm Katie, a Data Analyst with a background in Social Science. I've always been interested in data and technology, but my experience working in the social care sector showed me how powerful data-driven decisions can be. Seeing how data can create change led me to pursue a career in data analytics.
 
-I’m motivated by the opportunity to use data to solve problems and support better decision-making. My goal is to apply my technical skills to make a real impact—wherever data can make positive change.
+I'm motivated by the opportunity to use data to solve problems and support better decision-making. My goal is to apply my technical skills to make a real impact—wherever data can make positive change.
 
 
 ### What I Do
@@ -23,61 +23,64 @@ This portfolio is a collection of projects that I have completed as part of my H
 
 ### R 
 #### Ireland Employment Analysis (2006-2011)
-[![Project Badge](https://img.shields.io/badge/R-Employment_Analysis-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/cso_employment_analysis.ipynb)
+<a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/cso_employment_analysis.ipynb" target="_blank"><img src="https://img.shields.io/badge/R-Employment_Analysis-blue" alt="Project Badge"></a>
 - Analyzed employment data from the Central Statistics Office (CSO) using R.
 - Cleaned and processed datasets, performing statistical analyses to identify employment trends.
 - Developed visualizations with ggplot2 to effectively present findings.
-- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/cso_employment_analysis.ipynb)
+- <a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/cso_employment_analysis.ipynb" target="_blank">View Project →</a>
 #### Aviation Data Analysis
-[![Project Badge](https://img.shields.io/badge/R-Aviation_Data_Analysis-blue)](https://htmlpreview.github.io/?https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/Report.html)
+<a href="https://htmlpreview.github.io/?https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/Report.html" target="_blank"><img src="https://img.shields.io/badge/R-Aviation_Data_Analysis-blue" alt="Project Badge"></a>
 - Analyzed aviation data using R to identify trends and key patterns.
 - Cleaned, processed, and visualized data with ggplot2 and Tableau.
 - Documented findings in an RMarkdown report for clear communication.
-- [View Project →](https://htmlpreview.github.io/?https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/Report.html)
+- <a href="https://htmlpreview.github.io/?https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/Report.html" target="_blank">View Project →</a>
 #### European Social Survey Informal Care Analysis 
-[![Project Badge](https://img.shields.io/badge/R-ESIS_Informal_Care_Analysis-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/ess_informal_care_analysis.ipynb)
+<a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/ess_informal_care_analysis.ipynb" target="_blank"><img src="https://img.shields.io/badge/R-ESIS_Informal_Care_Analysis-blue" alt="Project Badge"></a>
 - Analyzed informal care data from the European Social Survey (ESS) using R.
 - Cleaned and processed survey data, performing statistical analysis to identify trends.
 - Created visualizations with ggplot2 to present caregiving patterns effectively.
-- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/ess_informal_care_analysis.ipynb)
+- <a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/R/ess_informal_care_analysis.ipynb" target="_blank">View Project →</a>
 
 ### SQL
 #### Employee Database Analysis
-[![Project Badge](https://img.shields.io/badge/SQL-Employee_Database_Analysis-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/employee_db_analysis.sql)
+<a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/employee_db_analysis.sql" target="_blank"><img src="https://img.shields.io/badge/SQL-Employee_Database_Analysis-blue" alt="Project Badge"></a>
 - Used SQL to analyze employee demographics, looking at age, gender, and department distributions.
 - Queried and combined data with joins and subqueries to generate reports.
 - Calculated employee tenure and identified upcoming retirements using date functions.
-- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/employee_db_analysis.sql)
+- <a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/employee_db_analysis.sql" target="_blank">View Project →</a>
 #### Property Sales Analysis
-[![Project Badge](https://img.shields.io/badge/SQL-Property_Sales_Analysis-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/property_sales_analysis.sql)
+<a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/property_sales_analysis.sql" target="_blank"><img src="https://img.shields.io/badge/SQL-Property_Sales_Analysis-blue" alt="Project Badge"></a>
 - Used SQL to analyze property sales, focusing on price trends and sales volume.
 - Queried and filtered data to explore patterns by location and property type.
 - Performed calculations to compare sales over time.
-- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/property_sales_analysis.sql)
+- <a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/SQL/property_sales_analysis.sql" target="_blank">View Project →</a>
 
 ### PLSQL
 #### Business Rules
-[![Project Badge](https://img.shields.io/badge/PLSQL-Business_Rules-blue)](https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/business_rules)
+<a href="https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/business_rules" target="_blank"><img src="https://img.shields.io/badge/PLSQL-Business_Rules-blue" alt="Project Badge"></a>
 - Wrote a PL/SQL package to validate and manage data in the BOL schema.
 - Created procedures to check data quality and enforce business rules.
 - Used PL/SQL functions and error handling to automate validation.
 - Completed as part of a timed SQL/PLSQL exam.
-- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/business_rules)
+- <a href="https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/business_rules" target="_blank">View Project →</a>
 #### System Procedures
-[![Project Badge](https://img.shields.io/badge/PLSQL-System_Procedures-blue)](https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/system_procedures)
+<a href="https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/system_procedures" target="_blank"><img src="https://img.shields.io/badge/PLSQL-System_Procedures-blue" alt="Project Badge"></a>
 - Wrote PL/SQL procedures to handle system tasks and database operations.
 - Added error handling and logging to track issues.
 - Used PL/SQL for scheduling, updates, and maintenance.
 - Completed as part of a timed SQL/PLSQL exam.
-- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/system_procedures)
+- <a href="https://github.com/katiethunder/DataAnalyticsProjects/tree/main/PLSQL/system_procedures" target="_blank">View Project →</a>
 
 ### MongoDB
 #### Book Store Database
-[![Project Badge](https://img.shields.io/badge/MongoDB-Book_Store_Database-blue)](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/MONGODB/mongodb_queries.js)
+<a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/MONGODB/mongodb_queries.js" target="_blank"><img src="https://img.shields.io/badge/MongoDB-Book_Store_Database-blue" alt="Project Badge"></a>
 - Analyzed publishing data using MongoDB queries
 - Developed NoSQL operations to extract insights from document data
 - Created filtering methods to answer specific questions about book trends
-- [View Project →](https://github.com/katiethunder/DataAnalyticsProjects/blob/main/MONGODB/mongodb_queries.js)
+- <a href="https://github.com/katiethunder/DataAnalyticsProjects/blob/main/MONGODB/mongodb_queries.js" target="_blank">View Project →</a>
+
+### Tableau Public Visualizations
+You can explore my interactive data visualizations on Tableau Public: <a href="https://public.tableau.com/app/profile/katie.thunder/vizzes" target="_blank">My Tableau Public Profile</a>
 
 ## Technical Skills
 
@@ -108,16 +111,28 @@ This portfolio is a collection of projects that I have completed as part of my H
 
 ## Education
 
-**Higher Diploma in Data Analytics** (First Class Honours, 2024)
+**Higher Diploma in Data Analytics - TUS Athlone** (First Class Honours, 2024)
 - Focus on statistical analysis and data visualization
 - Advanced R programming
 - Database management and SQL
 - Machine learning fundamentals
 
+**Higher Diploma in Applied Social Studies (Social Care) - SETU Carlow** (First Class Honours, 2021)
+- Professional qualification in social care practice
+- Focus on person-centered care and intervention strategies
+- Applied research in social care settings
+- Practical training in social care environments
+
+**Bachelor of Social Science - Maynooth University** (2:1 Honours, 2019)
+- Sociology and Social Policy
+- Research methods in social sciences
+- Social theory and policy analysis
+- Quantitative and qualitative research techniques
+
 ## Contact
 
-📧 [Email](mailto:katiethunder1@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/katie-thunder-0862461a6/)  
-🐱 [GitHub](https://github.com/katiethunder/DataAnalyticsPortfolio)
+📧 <a href="mailto:katiethunder1@gmail.com" target="_blank">Email</a>  
+💼 <a href="https://www.linkedin.com/in/katie-thunder-0862461a6/" target="_blank">LinkedIn</a>  
+🐱 <a href="https://github.com/katiethunder/DataAnalyticsPortfolio" target="_blank">GitHub</a>
 
 ---
